@@ -76,5 +76,3 @@ MIT License
 
 ---
 
-## Contact
-For questions, please reach out to [joanna.cie@gmail.com](mailto:joanna.cie@gmail.com).
